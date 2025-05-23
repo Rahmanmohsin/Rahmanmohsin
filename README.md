@@ -36,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Kali_Linux_logo.svg" width="40" height="40" alt="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon-wireshark.png" width="40" height="40" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Kali_Linux_Logo.png" width="40" height="40" alt="Kali Linux"/>
 </p>
 
 ---
