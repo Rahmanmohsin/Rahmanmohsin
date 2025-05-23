@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
 </p>
 
+> 💬 _C, C++, Dart, Matlab, Bash_
+
 ---
 
 ## 🛠️ Tools I Use
@@ -40,6 +42,8 @@
   <img src="assets/icons8-wireshark-64.png" width="40" height="40" alt="Wireshark"/>
   <img src="assets/icons8-kali-linux-40.png" width="40" height="40" alt="Kali Linux"/>
 </p>
+
+> 🧰 _Git, VSCode, Docker, Wireshark, Kali Linux_
 
 ---
 
