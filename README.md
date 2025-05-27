@@ -15,21 +15,22 @@
 - 📍 Based in Germany, currently studying at **42 Heilbronn** and **TUM**.
 - 🌱 Diving deep into **Cybersecurity**, **Networks**, and **Ethical Hacking**.
 - 💡 Passionate about exploring low-level systems & reverse engineering.
-- 🧠 Always learning something new, one command-line challenge at a time.
+- 🧠 Always learning something new — one command-line challenge at a time.
 
 ---
 
-## 💻 Languages & Frameworks
+## 💻 Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="assets/icons8-pfeil-48.png" width="40" height="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="Matlab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
 </p>
 
-> 💬 _C, C++, Dart, Matlab, Bash_
+> 💬 _C, C++, Java, Dart, Matlab, Bash_
 
 ---
 
@@ -58,7 +59,7 @@
 
 ## 📫 Reach Me At
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/mohsin-rahman-4933842a5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/mohsin-rahman-4933842a5)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinaejazrahman@gmail.com)
 
 ---
